@@ -1,0 +1,68 @@
+/* Put your custom styles here */
+div#line2.row div.col-xs-6.col-md-2 {
+    margin-left: 7%;
+}
+
+div#line2.row {
+    background-color: #fff;
+}
+
+#merk {
+    padding-top: 10px;
+    background-color: #fff;
+}
+
+logo {
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 0 auto;
+    width: 46%;
+}
+
+#konten_logo {
+    margin-top: 10px;
+}
+
+#produk {
+}
+
+.content-block {
+    /* padding: 0px 0px 90px 0px */
+    margin: ;
+}
+
+.col-md-4 {
+    width: 20%;
+}
+
+.col-xs-3 {
+    width: 20%;
+}
+
+#header-1 .main-nav {
+    background-color: #2469bc;
+}
+
+.bg-deepocean {
+    background-color: #2469bc !important;
+}
+
+.bg-black {
+    background-color: #2469bc !important;
+}
+
+section#content-1-1 {
+}
+
+#header-1 {
+    margin-bottom: 8px;
+}
+
+.col-xs-4 {
+}
+
+span {
+    text-transform: none;
+}
